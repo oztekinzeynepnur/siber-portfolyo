@@ -15,8 +15,7 @@ Animasyonlarla zenginleştirilmiş modern bir web arayüzü sunar. 👨‍💻�
 ---
 
 ## 📸 Önizleme
-
-> Projenin ekran görüntüsünü buraya ekleyebilirsin  
+  
 >![image](https://github.com/user-attachments/assets/07027002-21ee-4425-9eed-c3a958eebd20)
 
 
